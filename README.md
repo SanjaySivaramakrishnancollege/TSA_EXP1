@@ -1,6 +1,6 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
 ###  Date: 28.04.2026
-
+### Reg no : 212223240151
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
 /temperature.
